@@ -3,6 +3,9 @@
 ## I am a developer who strives to create software with the convenient features that everyone in the world wants.
 
 
+ [![Hwang-JaeHyeon's github stats](https://github-readme-stats.vercel.app/api?username=ten0213)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs-owl-study%2FHwang-JaeHyeon.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### It is my pleasure to introduce my blog here : [Hwang JaeHyeon's Blog](https://velog.io/@ten0213)
