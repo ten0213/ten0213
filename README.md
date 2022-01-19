@@ -11,3 +11,5 @@
 
 ### 📚 The development environments used to study programming are : 
 -  <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/IntellijIDEA-000000?logo=IntellijIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?logo=EclipseIDE&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Sublime Text-FF9800?logo=Sublime Text&logoColor=white"/> 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ten0213)](https://solved.ac/ten0213/)
