@@ -11,6 +11,7 @@
 
 ### It is my pleasure to introduce my blog here : [Hwang JaeHyeon's Blog](https://velog.io/@ten0213)
 
+### if you need to contect via email : [ten02130735@gmail.com](ten02130735@gmail.com)
 
 ### 📚 The language I'm studying these days are :    
 - <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
