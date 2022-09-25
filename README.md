@@ -23,3 +23,4 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ten0213)](https://solved.ac/ten0213)
 
+![ten0231's GitHub stats](https://github-readme-stats.vercel.app/api?username=ten0213&show_icons=true)
