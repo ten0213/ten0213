@@ -10,7 +10,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs-owl-study%2FHwang-JaeHyeon.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### It is my pleasure to introduce my blog here : [Hwang JaeHyeon's Blog](https://velog.io/@ten0213)
-### If you would like to see a notion sharing my knowledge, please click here : [Hwang JaeHyeon's notion includes software knowledges](https://forsoftwareengineer.notion.site/)
+### If you would like to see a notion sharing my knowledge, please click here : [Hwang JaeHyeon's notion includes software knowledges](https://forsoftwareengineer.notion.site/C-Programming-3eed952993fc4c46ad64d2274960645c)
 
 ### If you need to contect via email : [ten02130735@gmail.com](ten02130735@gmail.com)
 
