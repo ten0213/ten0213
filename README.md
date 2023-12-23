@@ -1,3 +1,7 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hwang&nbsp;JaeHyeon&fontAlign=30&fontAlignY=35&color=gradient)
+
+
+
 # Welcome to my precious Github!
 
 ## I am a developer who strives to create software with the convenient features that everyone in the world wants.
@@ -24,3 +28,4 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ten0213)](https://solved.ac/ten0213)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
