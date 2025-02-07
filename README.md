@@ -11,19 +11,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ten0213)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Hwang-JaeHyeon's github stats](https://github-readme-stats.vercel.app/api?username=ten0213)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs-owl-study%2FHwang-JaeHyeon.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### If you would like to see a notion sharing my knowledge, please click here : [Hwang JaeHyeon's notion includes software knowledges](https://forsoftwareengineer.notion.site/Software-Engineering-Documentation-5c7ba55b98ad4c249e30918ffff238b8)
+### If you would like to see a notion sharing my knowledge, please click here : [Hwang JaeHyeon's notion includes software knowledges](https://husky-motorcycle-0a8.notion.site/Software-Engineering-Documentation-148075c1f2d7803db709d139d2a7899d?pvs=4)
 
 ### If you need to contect via email : [ten02130735@gmail.com](ten02130735@gmail.com)
 
-### 📚 The language I'm studying these days are :    
+### 📚 The language I'm studying these days are :
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-78c631?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-2C2255?style=flat&logo=react&logoColor=white"/>
 
 
-### 📚 The development programs used to study programming are : 
+### 📚 The development programs used to study programming are :
  <img src="https://img.shields.io/badge/IntellijIDEA-FF9800?logo=IntellijIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?logo=EclipseIDE&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000??style=flat-square&logo=Notion&logoColor=white"/>
 
 ### 📚 The questions I've solved in Bakjoon online judge System are as follows.
