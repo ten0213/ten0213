@@ -13,7 +13,6 @@
  [![Hwang-JaeHyeon's github stats](https://github-readme-stats.vercel.app/api?username=ten0213)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs-owl-study%2FHwang-JaeHyeon.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### If you would like to see a notion sharing my knowledge, please click here : [Hwang JaeHyeon's notion includes software knowledges](https://husky-motorcycle-0a8.notion.site/Software-Engineering-Documentation-148075c1f2d7803db709d139d2a7899d?pvs=4)
 
