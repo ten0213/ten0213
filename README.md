@@ -6,8 +6,7 @@
 
 ## I am a developer who strives to create software with the convenient features that everyone in the world wants.
 
-## 세상의 모든 사람들이 원하는 편리한 기능을 소프트웨어로 만들어내기 위한 개발자입니다.
-
+## 세상의 모든 사람들이 원하는 편리한 기능을 소프트웨어로 만들어내기 위한 개발자입니다. 사람에게 필요한 것이 무엇인지 고민하고 사람의 무한한 가능성을 개발합니다.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ten0213)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Hwang-JaeHyeon's github stats](https://github-readme-stats.vercel.app/api?username=ten0213)](https://github.com/anuraghazra/github-readme-stats)
